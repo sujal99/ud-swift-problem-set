@@ -16,7 +16,7 @@
 var gallonsRemainingInTank: Double = 0
 var ageOfSpecimenInWeeks: Int = 0
 var birthplace: String = "India"
-var myFirstProgrammingLanguage: String = "C"
+let myFirstProgrammingLanguage: String = "C"
 //: ### Exercise 2
 //: Make the minimal changes necessary to fix the following compiler errors related to assignment, variables, and constants.
 var favoriteLanguage: Character = "S"
@@ -41,7 +41,7 @@ let reverseString = String(arrayOfCharacters)
 */
 var hungerLevel: Int = 0
 let winScore: Int  = 100
-var birthDay: String = "00-00-1900"
+let birthDay: String = "00-00-1900"
 var statusString: String = "Available"
 /*:
  ****
